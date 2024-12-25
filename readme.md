@@ -16,6 +16,10 @@
 
 [板块涨跌幅云图](https://47sang.github.io/section) 
 
+[![数据可视化](./img/4.jpg)](./img/4.jpg)
+
+[二级板块正负条形图](https://47sang.github.io/sectionBar) 
+
 # 数据业务流程
 
 - 先获取申万板块信息,个股所属的一二级分类,存入a_sw
@@ -28,4 +32,4 @@
 # 技术支持联系方式
 
 - QQ:568261517
-- 微信:edu2zhou
+- 微信:prodzhou
